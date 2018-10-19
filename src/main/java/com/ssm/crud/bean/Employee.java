@@ -22,7 +22,7 @@ public class Employee {
 
     private Integer dId;
     
-    //希望查询员工的同时部门信息也是查询好�?
+    //希望查询员工的同时部门信息也是查询好
     private Department department;
     
 
