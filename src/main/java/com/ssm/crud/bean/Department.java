@@ -9,7 +9,7 @@ public class Department {
 
     public Department() {
 		super();
-		// TODO Auto-generated constructor stub
+	
 	}
 
 	public Department(Integer deptId, String deptName) {
